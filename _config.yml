@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Matthew Heinsen Egan
+tagline:          C++ etc.
+url:              http://mheinsen.github.io/
+paginate:         1
+baseurl:          http://mheinsen.github.io/
+author:
+  name:           Matthew Heinsen Egan
+  url:            http://mheinsen.github.io/
+  email:          matthew.heinsen.egan@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/mheinsen/mheinsen.github.io
